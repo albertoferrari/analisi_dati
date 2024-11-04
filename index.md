@@ -8,3 +8,4 @@
 ### letture
 - [Shoshana Zuboff - Il capitalismo della sorveglianza](http://albertoferrari.github.io/analisi_dati/letture/capitalismo_della_sorveglianza.pdf)
 - [Il compromesso tra dati e libertà](http://albertoferrari.github.io/analisi_dati/letture/dati_e_liberta.pdf)
+- [Big Data e Football](http://albertoferrari.github.io/analisi_dati/letture/big_data_calcio.pdf)
