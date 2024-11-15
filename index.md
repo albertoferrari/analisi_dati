@@ -5,7 +5,7 @@
 - [Cenni di crittografia](http://albertoferrari.github.io/analisi_dati/lezioni/DD04-crittografia.pdf)
 - [Dati e libertà](http://albertoferrari.github.io/analisi_dati/lezioni/DD99-dati_libertà.pdf)
 - [Analisi dei dati](http://albertoferrari.github.io/analisi_dati/lezioni/DD05-analisi_dei_dati.pdf)
-
+- [Machine learning](http://albertoferrari.github.io/analisi_dati/lezioni/DD06-machine_learning.pdf)
 
 ### letture
 - [Shoshana Zuboff - Il capitalismo della sorveglianza](http://albertoferrari.github.io/analisi_dati/letture/capitalismo_della_sorveglianza.pdf)
