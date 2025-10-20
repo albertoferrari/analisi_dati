@@ -3,6 +3,7 @@
 - [Big Data](http://albertoferrari.github.io/analisi_dati/lezioni/DD02-big_data.pdf)
 - [Big Data nel calcio](http://albertoferrari.github.io/analisi_dati/lezioni/Big_Data_nel_Calcio.pdf)
 - [Regolamento Protezione Dati](http://albertoferrari.github.io/analisi_dati/lezioni/DD03-regolamento_dati.pdf)
+- [Dati account google](http://albertoferrari.github.io/analisi_dati/lezioni/Dati_Account_Google.pdf)
 - [Cenni di crittografia](http://albertoferrari.github.io/analisi_dati/lezioni/DD04-crittografia.pdf)
 - [Dati e libertà](http://albertoferrari.github.io/analisi_dati/lezioni/DD99-dati_libertà.pdf)
 - [Analisi dei dati](http://albertoferrari.github.io/analisi_dati/lezioni/DD05-analisi_dei_dati.pdf)
