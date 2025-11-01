@@ -1,7 +1,7 @@
 ### Analisi, utilizzo e protezione dei dati digitali
 - [I dati](http://albertoferrari.github.io/analisi_dati/lezioni/DD01-dati.pdf)
 - [Big Data](http://albertoferrari.github.io/analisi_dati/lezioni/DD02-big_data.pdf)
-- [Big Data nel calcio](http://albertoferrari.github.io/analisi_dati/lezioni/DD02b-big_data_nel_Calcio.pdf.pdf)
+- [Big Data nel calcio](http://albertoferrari.github.io/analisi_dati/lezioni/DD02b-big_data_nel_Calcio.pdf)
 - [Regolamento Protezione Dati](http://albertoferrari.github.io/analisi_dati/lezioni/DD03-regolamento_dati.pdf)
 - [Dati account google](http://albertoferrari.github.io/analisi_dati/lezioni/Dati_Account_Google.pdf)
 - [Cenni di crittografia](http://albertoferrari.github.io/analisi_dati/lezioni/DD04-crittografia.pdf)
