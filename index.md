@@ -17,4 +17,4 @@
 - [Big Data e Football](http://albertoferrari.github.io/analisi_dati/letture/big_data_calcio.pdf)
 - [Regolamento (UE) 2016/679](http://albertoferrari.github.io/analisi_dati/letture/regolamento_europeo.pdf)
 - [L’intelligenza artificiale ci sta rendendo stupidi?](http://albertoferrari.github.io/analisi_dati/letture/rendendo_stupidi.pdf)
-- [Big Data e musica](http://albertoferrari.github.io/analisi_dati/letture/Big_data_e_musica.pdf)
+- [Big Data e musica](http://albertoferrari.github.io/analisi_dati/letture/Big_Data_e_musica.pdf)
